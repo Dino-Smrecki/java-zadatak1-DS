@@ -62,6 +62,7 @@ public class Temperatura {
         if (brVisokihTemp>0) {
             System.out.println("Povišena temperatura zabilježena.");
         }
+        else System.out.println("Sva mjerenja u granicama normale.");
         
     }
     }
